@@ -1,0 +1,38 @@
+# Gradle and Java build output
+.gradle
+build
+output
+bin
+obj
+
+# Local environment, secrets, and IDE state
+.env
+**/*.env
+/server/keys/
+/server/hiscore.config
+.idea/
+.vscode/
+*.log
+hs_err_pid*.log
+.tmp*
+work/
+
+# Node.js
+**/node_modules/
+**/package-lock.json
+**/package-log.json
+
+# Python virtual environment and caches
+.venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/.pytest_cache/
+**/.ruff_cache/
+*.egg-info/
+dist/
+
+# Plan workspace
+.plan/
+/PLAN.md
+/plan.code-workspace
