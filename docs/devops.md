@@ -1,6 +1,6 @@
 # DevOps Guide
 
-Development environment, versioning, testing, and deployment operations for HiNoLuGi Hiscore (`R10`, `R11`, `R13`, `R15`).
+Development environment, versioning, testing, and deployment operations for Hiscores (`R10`, `R11`, `R13`, `R15`).
 
 ---
 

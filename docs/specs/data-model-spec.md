@@ -1,6 +1,6 @@
 # Data Model Specification
 
-MariaDB relational schema, entity definitions, and leaderboard retention rules for HiNoLuGi Hiscore (`R6`, `R13`).
+MariaDB relational schema, entity definitions, and leaderboard retention rules for Hiscores (`R6`, `R13`).
 
 ---
 

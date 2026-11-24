@@ -1,6 +1,6 @@
 # Requirements
 
-Functional requirements, technical constraints, and non-goals for HiNoLuGi Hiscore.
+Functional requirements, technical constraints, and non-goals for Hiscores.
 Each requirement has a stable identifier (`R1`, `R2`, ...) for specifications and tasks to cite.
 
 ---

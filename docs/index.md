@@ -1,6 +1,6 @@
 # Documentation Index
 
-Documentation for the HiNoLuGi Hiscore service, web application, and Admin Console.
+Documentation for the Hiscores service, web application, and Admin Console.
 
 ---
 

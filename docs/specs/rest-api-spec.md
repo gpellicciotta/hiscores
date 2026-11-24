@@ -1,6 +1,6 @@
 # REST API Specification
 
-HTTP JSON REST API contract between the HiNoLuGi Hiscore server, SPA, and Admin Console.
+HTTP JSON REST API contract between the Hiscores server, SPA, and Admin Console.
 
 ---
 

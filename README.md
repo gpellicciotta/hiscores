@@ -1,4 +1,4 @@
-# HiNoLuGi Hiscore
+# Hiscores
 
 A lightweight web application and JSON REST API for tracking top scores across games.
 

@@ -4,7 +4,7 @@ Load the `plan-task-usage-guidelines` skill before creating, starting, or changi
 Change `PLAN.md` and task frontmatter only through `plan` commands.
 <!-- END plan -->
 
-# HiNoLuGi Hiscore
+# Hiscores
 
 A lightweight web application and JSON REST API for tracking top scores across games.
 See [index.md](docs/index.md), [requirements.md](docs/requirements.md), and [devops.md](docs/devops.md).
